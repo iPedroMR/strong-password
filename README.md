@@ -4,7 +4,7 @@
 
 ##Screenshot
 
-![strong-password-gen](https://user-images.githubusercontent.com/16200842/233753397-e560c2a5-5979-4b33-9b08-ec7966907b3a.png)
+![strong-password-gen](https://user-images.githubusercontent.com/16200842/233753511-9228dae7-9ac9-42e9-b2bb-98be7308656b.png)
 
 ## Features
 
