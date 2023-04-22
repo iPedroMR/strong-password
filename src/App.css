@@ -1,0 +1,60 @@
+:root {
+  font-family: "Roboto", normal;
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: #151619;
+  color: #9ca3af;
+  overflow: hidden; /* Hide scrollbars */
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.App {
+  padding: 6rem;
+  margin-top: 8rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  font-size: 16px;
+  margin: 8px 0;
+}
+
+.row {
+  display: flex;
+  margin: 36px 0 0 0;
+  align-items: center;
+}
+
+/* BLOBS */
+.blob {
+  background: #32853a;
+  filter: blur(200px);
+  position: absolute;
+}
+
+.blob-end {
+  left: -32rem;
+  bottom: -32rem;
+}
+
+.blob-right {
+  top: -32rem;
+  right: -52rem;
+}
+/* END BLOBS */
+
+@media (max-width: 995px) {
+  .App {
+    padding: 0;
+  }
+}
