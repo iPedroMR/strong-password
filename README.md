@@ -2,6 +2,10 @@
 
 🔒 Password generator with secure algorithm developed in react@18.2.0.
 
+##Screenshot
+
+![strong-password-gen](https://user-images.githubusercontent.com/16200842/233753397-e560c2a5-5979-4b33-9b08-ec7966907b3a.png)
+
 ## Features
 
 - Fully Developed Interface;
