@@ -10,7 +10,7 @@
 
 ## Demo:
 
-https://strong-password.vercel.app
+https://strong-password-tau.vercel.app
 
 # How to install
 
